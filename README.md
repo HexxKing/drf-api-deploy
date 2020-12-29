@@ -4,10 +4,10 @@
 
 # Superuser
 For grading purposes only, you can log into the admin URL using these superuser credentials
-  - username: hexxking
-  - password: hk
+  - username: 
+  - password: 
 
-# [PR Submission Link]()
+# [PR Submission Link](https://github.com/HexxKing/drf-api-deploy/pull/1)
 
 # Resources
 - Django for APIs 3.1 by William S. Vincent
